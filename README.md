@@ -1,4 +1,4 @@
-# Assignmet Hooke's Law
+# Assignment Hooke's Law
 >This game is made using the basic principle of Hooke's Law.
 
 >We as a player should control the red ball which is attached with a spring and prevent it from getting hit from the obstacles.
